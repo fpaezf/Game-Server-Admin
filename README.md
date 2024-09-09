@@ -17,6 +17,15 @@ A simple but effective game server manager tool based in SteamCMD.
 - Read console output
 - Start server process without window
 
+# Compatibility
+- Team fortress 2
+- Counter-Strike: Source
+- Counter-Strike: Global Offensive
+- Counter-Strike 2
+- Valheim
+
+More games will be added in further releases, if you have a request, please open a ticket: https://github.com/fpaezf/Game-Server-Admin/issues
+
 # Screenshots
 ![1](https://github.com/user-attachments/assets/22ab9f51-da37-47bc-a02a-52fdd7f1e217)
 ![2](https://github.com/user-attachments/assets/9bce6e52-16f5-4b03-9bf1-5584a5243da2)
