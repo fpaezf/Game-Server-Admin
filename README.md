@@ -12,6 +12,8 @@ A simple but effective game server manager tool based in SteamCMD.
 - Verify file integrity
 - Autoclose SteamCMD on finish tasks
 - Server watchdog
+- Read console output
+- Start server process without window
 
 # Screenshots
 ![1](https://github.com/user-attachments/assets/22ab9f51-da37-47bc-a02a-52fdd7f1e217)
